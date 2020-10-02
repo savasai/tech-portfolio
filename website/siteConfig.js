@@ -10,7 +10,6 @@
 
 // List of projects/orgs using your project for the users page.
 const users = [];
-
 const siteConfig = {
     title: 'Sailaja Savanam', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
